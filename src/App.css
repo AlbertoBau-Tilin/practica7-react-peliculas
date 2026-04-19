@@ -11,3 +11,15 @@ body{
   color:white;
   font-family:Arial;
 }
+
+@media(max-width:768px){
+  .title{
+    font-size:5rem;
+  }
+}
+
+@media(max-width:480px){
+  .title{
+    font-size:5rem;
+  }
+}
