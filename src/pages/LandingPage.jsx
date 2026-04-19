@@ -1,8 +1,11 @@
-/* Prueba para verificar la funcionalidad de AppRouter */
-/* integrante 2 debe modificar */
+import MovieGrid from "src/components/MovieGrid";
 
-export default function LandingPage() {
-    return;
+function LandingPage() {
+return (
+<div>
+<MovieGrid />
+</div>
+);
 }
 
-
+export default LandingPage;
