@@ -5,3 +5,9 @@
     text-align: center;
     font-size: 10rem;
 }
+body{
+  margin:0;
+  background:#121212;
+  color:white;
+  font-family:Arial;
+}
