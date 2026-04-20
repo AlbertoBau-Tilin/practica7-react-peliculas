@@ -85,3 +85,11 @@ Proyecto en Netlify:
 
 
 ## conclusion
+
+Alberto: En esta practica pude aprender como es el entorno de React y Vite, cosas que no había utilizado nunca. Al ser el primero en poner en marcha este proyecto pude adquirir conocimientos como la creación y configuración del repositorio en Github y dejar todo listo para mis compañeros. Además de eso pude experimentar el trabajo en equipo de otra manera y haciéndolo simultáneamente sin afectar las partes de mis otros compañeros.
+
+Victor: El desarrollo de la aplicación de películas utilizó una integración de tecnologías como React, Vite, GitHub y Netlify, para poder construir una solución dinámica. El uso de una API externa facilitó la obtención de datos en tiempo real, ahorrando tiempo de desarrollo y mejorando la funcionalidad y experiencia del usuario.
+
+Además, React permitió estructurar la aplicación mediante componentes reutilizables, mientras que Vite optimizó el rendimiento y la velocidad de desarrollo. GitHub fue fundamental para el control de versiones y la colaboración, y Netlify facilitó el despliegue rápido y accesible de la aplicación en línea.                                                                                                                                                                                                                                                                                                                                                Gracias a la experiencia de este trabajo colaborativo, se reforzaron conocimientos técnicos en el desarrollo web sobre desarrollo, diseño, implementación y publicación de la página.
+
+Luis: esta prectica me ayudo mucho a darme cuenta la utilidas de git, me gusto mucho que te da mas control y trabajo en equipo, este es un requisito idispensable en muchas de las empresas actuales lo cual ayuda mucho a conseguir trabajo.
