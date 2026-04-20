@@ -12,8 +12,6 @@ function App() {
         </main>
 
         <footer>
-        
-        </footer>
           <p><strong>Integrantes:</strong></p>
           <p>Luis Alfonso Corona Becerra</p>
           <p>Jose Alberto Bautista Bautista</p>
